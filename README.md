@@ -44,4 +44,4 @@ Consult the postgres server log to make sure that there's no errors
 
 # Relevant documentation
 
-[Postgres Logical Replication]https://www.postgresql.org/docs/current/logical-replication.html
+[Postgres Logical Replication](https://www.postgresql.org/docs/current/logical-replication.html)
